@@ -8,3 +8,7 @@ Para executar os testes basta chamar o comando 'python -m unittest' na pasta rai
 * Retorne à implementação e refatore procurando: 
   Extrair interfaces e métodos a fim de obter baixo acoplamento e alta coesão 
   com o código mais simples possível.
+* Lembre-se do mantra do TDD: RED => GREEN => REFACTOR
+* Leia sobre os princípios SOLID: https://blog.betrybe.com/linguagem-de-programacao/solid-cinco-principios-poo/
+* Leia sobre YAGNI, KISS e DRY: https://www.linkapi.solutions/blog/yagni-kiss-e-dry
+
