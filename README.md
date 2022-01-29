@@ -1,6 +1,6 @@
 # tdd_com_python
 
-Para executar os testes basta chamar o comando python -m unittest na pasta raiz do projeto.
+Para executar os testes basta chamar o comando 'python -m unittest' na pasta raiz do projeto.
 
 * Há somente um teste escrito e o mesmo está falhando; 
 * Efetue implementação somente com a finalidade de passar no teste que falha;
